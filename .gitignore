@@ -1,0 +1,13 @@
+# Ignorar archivos generados por Tailwind CSS
+/node_modules
+/dist
+/build
+/out
+/tmp
+/logs
+/vendor
+/cache
+/public/build
+/public/css
+/public/js
+/storage
